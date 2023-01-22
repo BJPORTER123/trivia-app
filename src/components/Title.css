@@ -1,0 +1,26 @@
+.title-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-size: 5rem;
+    font-stretch: ultra-condensed;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #091f36;
+}
+.select{
+    font-size: 1rem;
+    border-radius: 10px;
+    color: antiquewhite;
+    height: 3rem;
+    width: 12rem;
+    background-color: black;
+    border-color: #9e363a;
+    border-width: 3px;
+    align-items: center;
+   
+}
+

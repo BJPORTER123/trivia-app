@@ -1,0 +1,29 @@
+.answer-buttons{
+    border-radius: 20px;
+    background-color:#0f2862;
+    border-width: 3px;
+    padding: 10px;
+    margin: 4px;
+    gap: 10px;
+    color: antiquewhite;
+    border-color: #9e363a;
+    }
+
+.answer-buttons {
+    width: 20%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    opacity: 0.8;
+    text-decoration: none;
+    
+}
+
+.answer-buttons:hover{
+    opacity: 1;
+}
+
+
+    
